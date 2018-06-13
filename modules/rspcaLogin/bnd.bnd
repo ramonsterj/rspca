@@ -1,0 +1,4 @@
+Bundle-Name: rspcaLogin
+Bundle-SymbolicName: rspcalogin
+Bundle-Version: 1.0.0
+Export-Package: rspcalogin.constants
